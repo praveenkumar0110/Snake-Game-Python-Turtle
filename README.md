@@ -5,6 +5,8 @@ This project recreates the **classic snake experience** with smooth movement, gr
 
 ---
 
+
+
 ## 🎮 Features
 
 - 🐍 Classic Snake Gameplay
